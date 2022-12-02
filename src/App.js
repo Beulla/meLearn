@@ -1,5 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
+import RegisterCourse from './pages/createCoursePage';
 
 function App() {
   return (
